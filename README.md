@@ -1,2 +1,2 @@
 # bitcoin-test
-NoFrixion small code test
+Small code test
