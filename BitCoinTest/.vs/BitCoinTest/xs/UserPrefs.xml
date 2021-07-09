@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{8784E9EA-CCD9-4E34-828B-6F1657968B1A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BitCoinTest/JSONHandler/BitCoinJsonParser.cs">
+    <Files>
+      <File FileName="BitCoinTest/Program.cs" Line="7" Column="31" />
+      <File FileName="BitCoinTest/BitCoinInformation.cs" Line="22" Column="33" />
+      <File FileName="BitCoinTest/HTTPHandler/IHttpRequester.cs" Line="9" Column="1" />
+      <File FileName="BitCoinTest/JSONHandler/BitCoinJsonParser.cs" Line="1" Column="14" />
+      <File FileName="BitCoinTest/HTTPHandler/IHttpRequester.cs" Line="6" Column="29" />
+      <File FileName="BitCoinTest/HTTPHandler/HttpRequester.cs" Line="33" Column="25" />
+      <File FileName="BitCoinTest/BitCoinDisplayer.cs" Line="37" Column="33" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BitCoinTest" expanded="True" selected="True">
+            <Node name="BitCoinTest" expanded="True">
+              <Node name="HTTPHandler" expanded="True" />
+              <Node name="JSONHandler" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.BitCoinTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

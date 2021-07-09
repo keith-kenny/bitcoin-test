@@ -1,0 +1,15 @@
+/Users/kennyk/Projects/code-tests/nofrixxion/bitcoin-test/BitCoinTest/BitCoinTest/bin/Debug/net5.0/BitCoinTest.deps.json
+/Users/kennyk/Projects/code-tests/nofrixxion/bitcoin-test/BitCoinTest/BitCoinTest/bin/Debug/net5.0/BitCoinTest.runtimeconfig.json
+/Users/kennyk/Projects/code-tests/nofrixxion/bitcoin-test/BitCoinTest/BitCoinTest/bin/Debug/net5.0/BitCoinTest.runtimeconfig.dev.json
+/Users/kennyk/Projects/code-tests/nofrixxion/bitcoin-test/BitCoinTest/BitCoinTest/bin/Debug/net5.0/BitCoinTest.dll
+/Users/kennyk/Projects/code-tests/nofrixxion/bitcoin-test/BitCoinTest/BitCoinTest/bin/Debug/net5.0/ref/BitCoinTest.dll
+/Users/kennyk/Projects/code-tests/nofrixxion/bitcoin-test/BitCoinTest/BitCoinTest/bin/Debug/net5.0/BitCoinTest.pdb
+/Users/kennyk/Projects/code-tests/nofrixxion/bitcoin-test/BitCoinTest/BitCoinTest/obj/Debug/net5.0/BitCoinTest.csprojAssemblyReference.cache
+/Users/kennyk/Projects/code-tests/nofrixxion/bitcoin-test/BitCoinTest/BitCoinTest/obj/Debug/net5.0/BitCoinTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kennyk/Projects/code-tests/nofrixxion/bitcoin-test/BitCoinTest/BitCoinTest/obj/Debug/net5.0/BitCoinTest.AssemblyInfoInputs.cache
+/Users/kennyk/Projects/code-tests/nofrixxion/bitcoin-test/BitCoinTest/BitCoinTest/obj/Debug/net5.0/BitCoinTest.AssemblyInfo.cs
+/Users/kennyk/Projects/code-tests/nofrixxion/bitcoin-test/BitCoinTest/BitCoinTest/obj/Debug/net5.0/BitCoinTest.csproj.CoreCompileInputs.cache
+/Users/kennyk/Projects/code-tests/nofrixxion/bitcoin-test/BitCoinTest/BitCoinTest/obj/Debug/net5.0/BitCoinTest.dll
+/Users/kennyk/Projects/code-tests/nofrixxion/bitcoin-test/BitCoinTest/BitCoinTest/obj/Debug/net5.0/ref/BitCoinTest.dll
+/Users/kennyk/Projects/code-tests/nofrixxion/bitcoin-test/BitCoinTest/BitCoinTest/obj/Debug/net5.0/BitCoinTest.pdb
+/Users/kennyk/Projects/code-tests/nofrixxion/bitcoin-test/BitCoinTest/BitCoinTest/obj/Debug/net5.0/BitCoinTest.genruntimeconfig.cache
